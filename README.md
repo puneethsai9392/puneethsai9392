@@ -161,7 +161,6 @@ class PuneethSai:
 | 🟡 **LeetCode** | 160+ problems solved · 50 Days Badge (2025) · August Badge (2025) |
 | 🎓 **AICTE Certified** | AI/ML Internship — SkillDzire, Hyderabad |
 | 🤖 **Forage** | Generative AI Virtual Experience Program |
-| 🧪 **Udemy** | Software Testing Masterclass — Novice to Expert |
 
 </div>
 
@@ -177,22 +176,26 @@ class PuneethSai:
 
 ---
 
-## 📚 Currently Learning
+## 📚 #100DaysOfML Journey
 
-```
-#100DaysOfML Journey
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Day 1  → Python basics for ML
-Day 2  → Linear Regression intro
-Day 3  → SLR — plots & metrics
-Day 4  → MLR + multiple features
-Day 5  → Polynomial Regression + Pipeline
-Day 6  → Real dataset + full EDA
-Day 7  → Ridge Regression + 9-plot dashboard ✅
-Day 8  → Lasso Regression (coming soon...)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Follow my journey → LinkedIn
-```
+<div align="center">
+
+| Day | Topic | Status |
+|---|---|---|
+| Day 01 | Python basics for ML | ✅ Done |
+| Day 02 | Linear Regression intro | ✅ Done |
+| Day 03 | SLR — plots & metrics | ✅ Done |
+| Day 04 | MLR + multiple features | ✅ Done |
+| Day 05 | Polynomial Regression + Pipeline | ✅ Done |
+| Day 06 | Real dataset + full EDA | ✅ Done |
+| Day 07 | Ridge Regression + 9-plot dashboard | ✅ Done |
+| Day 08 | Lasso Regression | ✅ Done |
+| Day 09 | Coming soon... | 🔄 |
+| Day 10 | Coming soon... | 🔄 |
+
+> 📌 Follow my daily posts on [LinkedIn](https://www.linkedin.com/in/puneethsai67/) — every day a new concept, code & plots!
+
+</div>
 
 ---
 
