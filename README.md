@@ -135,22 +135,7 @@ class PuneethSai:
 
 [![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/puneethsai9392)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=puneethsai9392&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=6C3AC7&icon_color=6C3AC7&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=puneethsai9392&theme=tokyonight&hide_border=true&background=0d1117&ring=6C3AC7&fire=6C3AC7&currStreakLabel=6C3AC7" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneethsai9392&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C3AC7&text_color=c9d1d9&langs_count=8" width="40%"/>
-
-</div>
-
----
 
 ## 🏆 Achievements
 
